@@ -1,12 +1,6 @@
 ---
 title: "Homepage Example"
 type: page
-layout: "index"
-menu:
-  primary:
-    parent: examples
-    name: Homepage
-    weight: 10
 ---
 {{% usa-hero calloutText="Hero Callout:" calloutAltText="Bring attention to a project priority" buttonURL="#" buttonText="Call to action" %}}
 Support the callout with some short explanatory text. You don’t need more than a couple of sentences.
