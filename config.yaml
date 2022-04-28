@@ -1,0 +1,9 @@
+baseURL: https://yoursite.example.gov/
+params:
+  header:
+    project_name: Hugo
+title: My Hugo Site
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
